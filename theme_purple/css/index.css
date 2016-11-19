@@ -3791,7 +3791,8 @@ h3.profile_hd {
 
 /* Those classes are sharing exact same gradient. */
 /* Background of buttons */
-.button_submit, .button_reset, .button_link, .topbottom,
+
+.topbottom,
 .dropmenu li ul, .top_menu, .dropmenu li li:hover, .button,
 .dropmenu li li:hover>a, .dropmenu li li a:focus, .dropmenu li li a:hover,
 #top_section, #search_form .button_submit, .quickbuttons li,
@@ -3799,7 +3800,7 @@ h3.profile_hd {
 .popup_window, #inner_section {
 	 /* background: #FFFFFF; */
 	 /* background-image: linear-gradient(to bottom, #E2E9F3 0%, #FFFFFF 70%); */
-	 background: #999 url(/admin_files/Primer/dhgg8dfg-h5-1000.jpg) repeat center top;
+	 background: #999 url(../images/earth7vm-1000.jpg) repeat center top;
 	 border-radius: 7px;
 }
 /* Well some of them has different gradient effect on hover */
